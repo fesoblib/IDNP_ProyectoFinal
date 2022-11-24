@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Inicio"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/LugaresCanje"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Message" />
+    <item
+        android:id="@+id/Perfil"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Setting" />
+</menu>
